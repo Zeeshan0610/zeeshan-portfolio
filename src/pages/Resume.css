@@ -1,0 +1,31 @@
+.resume-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #1abc9c;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.download-btn:hover {
+  background-color: #148f77;
+}
+
+.timeline {
+  margin-top: 40px;
+  text-align: left;
+}
+
+.timeline-item {
+  margin-bottom: 20px;
+}
