@@ -10,7 +10,7 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "This portfolio itself — built with React, routing, and clean UI.",
-    github: "https://github.com/your-username/zeeshan-portfolio",
+    github: "https://github.com/Zeeshan0610/zeeshan-portfolio",
     demo: "#",
   },
   // Add more projects later!

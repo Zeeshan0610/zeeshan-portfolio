@@ -13,9 +13,9 @@ function About() {
         <h2>Skills</h2>
         <ul>
           <li>HTML, CSS, JavaScript</li>
+           <li>Java</li>
           <li>React (in progress)</li>
           <li>Git & GitHub</li>
-          <li>Java (learning)</li>
         </ul>
       </div>
 
