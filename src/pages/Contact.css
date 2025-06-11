@@ -1,0 +1,21 @@
+.contact-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.contact-links p {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+.contact-links a {
+  color: #1abc9c;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.contact-links a:hover {
+  text-decoration: underline;
+}
