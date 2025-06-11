@@ -11,22 +11,20 @@ function Home() {
       <h1>Mohammed Zeeshan Mukram</h1>
       <p>Full-stack Developer</p>
 
-      <div className="section">
-        <h2>Education</h2>
-        <ul>
-          <li>Bachelor’s Degree in Computer Science and Engineering </li>
-              Visvesvaraya Technological University(VTU)
-        </ul>
+      <div className="about">
+        <p>
+        I'm Zeeshan, a passionate Full stack developer, Being fresher currently looking to start my career in growing organisation.
+        I enjoy building clean UIs, learning new tech, and solving real-world problems through code.
+      </p>
       </div>
 
       <div className="section">
-        <h2>Certifications</h2>
-        <ul>
-          <li>Full Stack Development</li>
-          KodNest
-        </ul>
+        <h2>Education</h2>
+          <p>Bachelor’s Degree in Computer Science and Engineering </p>
+              Visvesvaraya Technological University(VTU)
       </div>
-    </div>
+      </div>
+
   );
 }
 

@@ -16,16 +16,13 @@ function Resume() {
 
       <div className="timeline">
         <div className="timeline-item">
-          <h3>Bachelor’s Degree in [Your Major]</h3>
-          <p>[Your University] — [Year]</p>
+          <h3>Bachelor’s Degree in Computer Science and Engineering</h3>
+          <p>Visvesvaraya Technological University — [2020-2024]</p>
         </div>
-        <div className="timeline-item">
-          <h3>Frontend Projects</h3>
-          <p>React, HTML, CSS, JS — 2024–2025</p>
-        </div>
+        
         <div className="timeline-item">
           <h3>Learning Full-Stack</h3>
-          <p>Java, React, GitHub — Ongoing</p>
+          <p>Java, React, HTML, CSS, JavaScript GitHub — Ongoing</p>
         </div>
       </div>
     </div>
