@@ -14,7 +14,7 @@ function About() {
         <ul>
           <li>HTML, CSS, JavaScript</li>
            <li>Java</li>
-          <li>React (in progress)</li>
+          <li>ReactJS</li>
           <li>Git & GitHub</li>
         </ul>
       </div>
