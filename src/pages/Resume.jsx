@@ -22,7 +22,7 @@ function Resume() {
         
         <div className="timeline-item">
           <h3>Learning Full-Stack</h3>
-          <p>Java, React, HTML, CSS, JavaScript GitHub — Ongoing</p>
+          <p>Java, ReactJS, HTML, CSS, JavaScript, GitHub</p>
         </div>
       </div>
     </div>
